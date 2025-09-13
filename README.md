@@ -1,8 +1,5 @@
-# Langchain\Langgraph-Resume-O
+# Langchain\Langgraph-Resume-Optimizer
 
-https://github.com/user-attachments/assets/e39ab94c-d1d5-4abb-80e2-ba369ef2d900
-
-ptimizer
 
 📄 **Resume Optimizer** powered by LangChain & LangGraph with Streamlit UI
 
@@ -125,6 +122,7 @@ Contributions, bug reports, or feature requests are welcome! Please open an issu
 MIT License.
 
 
+https://github.com/user-attachments/assets/e39ab94c-d1d5-4abb-80e2-ba369ef2d900
 
 
 
